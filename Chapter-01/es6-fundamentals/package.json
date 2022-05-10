@@ -1,0 +1,14 @@
+{
+  "name": "es6-fundamentals",
+  "version": "1.0.0",
+  "description": "ES6 topics code samples",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Balaji Hambeere"
+}
