@@ -1,2 +1,9 @@
-# restful-api-with-typescript
-The code samples for Restful API with Typescript by Balaji Hambeere, published by Amazon
+# RESTful Web API With Typescript Best Practices
+
+### The code samples for RESTful Web API with Typescript Best Practices by Balaji Hambeere will soon publish on Amazon.
+
+### If you want to learn how to build efficient & Complex RESTful Web API With Typescript. This Book provides best practices, principles and patterns for Designing RESTful Web API With Typescript.
+
+#
+
+![RESTful Web API With Typescript Best Practices](Book-Cover.png)
