@@ -7,7 +7,7 @@
 #
 
 ### RESTful Web API with Typescript Best Practices
-### by Balaji Hambeere
+### By Balaji Hambeere
 ### Released June 2022
 ### Publisher(s): Amazon KDP
 ### ISBN: --
